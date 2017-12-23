@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>MinecraftServerPing</groupId>
 	<artifactId>MinecraftServerPing</artifactId>
-	<version>alpha</version>
+	<version>1.0.0</version>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
 		<dependency>
